@@ -1,0 +1,9 @@
+1)The worldwide web is a system of interconnected computers and other devices all over the world. It allows individuals to communicate and share information with one another. By connecting to servers around the globe via various technologies like cables, satellites, and wireless connections, it makes possible resources such as websites, emails and other online services.
+
+2)A web browser is software that lets users access and see things on the Internet. It serves as an interface between people who use it and the World Wide Web by interpreting and displaying web pages that contain multimedia elements such as texts, images and videos. Among the most common ones are Chrome, Firefox, Safari, Edge.
+
+3)Browser engines are also known as rendering engines or layout engines; in fact they are at the center of web browsers responsible for their interpretation and capturing of web contents. This engine reads HTML,CSS,and JavaScript codes hence displaying a webpage correctly. While some browsers use different engines; Blink for instance is used by Chrome and Edge whereas Firefox uses Gecko.
+
+4)Static sites are websites whose content does not change at all. They offer uniform information to all users displayed in HTML format. For websites with simple content or those that do not require time to load easily can be hosted on a static site.
+
+5)A dynamic website is that particular type of a site which produces information at the same time as it is demanded, in response to some user interactions. The data exhibited on dynamic sites may be different depending on the user’s input, database queries and more. Such sites rely on server-side technologies like Python, PHP or Ruby for data processing and generation of personalized user content. Dynamic sites are usually used in interactive web application and content management systems.
